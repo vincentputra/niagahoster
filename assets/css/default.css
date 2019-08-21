@@ -1,0 +1,70 @@
+.f8{ font-size: 8px; }
+.f10{ font-size: 10px; }
+.f12{ font-size: 12px; }
+.f14{ font-size: 14px; }
+.f16{ font-size: 16px; }
+.f18{ font-size: 18px; }
+.f20{ font-size: 20px; }
+.f22{ font-size: 22px; }
+.f24{ font-size: 24px; }
+.f26{ font-size: 26px; }
+
+.ls-1{ letter-spacing: 1px; }
+.ls-2{ letter-spacing: 2px; }
+.ls-3{ letter-spacing: 3px; }
+.ls-4{ letter-spacing: 4px; }
+.ls-5{ letter-spacing: 5px; }
+.ls-6{ letter-spacing: 6px; }
+.ls-7{ letter-spacing: 7px; }
+.ls-8{ letter-spacing: 8px; }
+
+.top-0{ top: 0px; }
+.bottom-0{ bottom: 0px; }
+.right-0{ right: 0px; }
+.left-0{ left: 0px; }
+
+.uppercase{ text-transform: uppercase; }
+.lowercase{ text-transform: lowercase; }
+
+.td-none, a .td-none, a.td-none{ text-decoration: none; }
+.td-none:hover, a:hover .td-none, a.td-none:hover{ text-decoration: none; }
+.td-underline{ text-decoration: underline; }
+.td-underline-white a:hover, a:hover .td-underline-white, a.td-underline-white:hover{ text-decoration: underline; text-decoration-style: solid; text-decoration-color: #fff; }
+a:focus{ outline: 0; }
+
+.cs_df{ cursor:default !important; }
+.cs_pt{ cursor:pointer !important; }
+.cs_auto{ cursor:auto !important; }
+.cs_none{ cursor:none !important; }
+.cs_cm{ cursor:context-menu !important; }
+.cs_help{ cursor:help !important; }
+.cs_pg{ cursor:progress !important; }
+.cs_wait{ cursor:wait !important; }
+.cs_cell{ cursor:cell !important; }
+.cs_ch{ cursor:crosshair !important; }
+.cs_text{ cursor:text !important; }
+.cs_vt{ cursor:vertical-text !important; }
+.cs_alias{ cursor:alias !important; }
+.cs_copy{ cursor:copy !important; }
+.cs_move{ cursor:move !important; }
+.cs_nd{ cursor:no-drop !important; }
+.cs_na{ cursor:not-allowed !important; }
+.cs_as{ cursor:all-scroll !important; }
+.cs_cr{ cursor:col-resize !important; }
+.cs_rr{ cursor:row-resize !important; }
+.cs_nr{ cursor:n-resize !important; }
+.cs_er{ cursor:e-resize !important; }
+.cs_sr{ cursor:s-resize !important; }
+.cs_wr{ cursor:w-resize !important; }
+.cs_nsr{ cursor:ns-resize !important; }
+.cs_ewr{ cursor:ew-resize !important; }
+.cs_ner{ cursor:ne-resize !important; }
+.cs_nwr{ cursor:nw-resize !important; }
+.cs_ser{ cursor:se-resize !important; }
+.cs_swr{ cursor:sw-resize !important; }
+.cs_nesw{ cursor:nesw-resize !important; }
+.cs_nwse{ cursor:nwse-resize !important; }
+.over_hd{ overflow:hidden !important; }
+.over_sc{ overflow:scroll !important; }
+.no_border{ border:none !important; }
+.no_bg{ background:none !important; }
